@@ -1,2 +1,18 @@
 https://www.topcoder.com/thrive/articles/image-optimization-through-next-js?utm_source=thrive&utm_campaign=thrive-feed&utm_medium=rss-feed 
 
+https://www.youtube.com/watch?v=LoG_a53VSmk 
+
+https://web.dev/learn/design/responsive-images/ - WebDev Responsive Images
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images - MDN Responsive Images
+- https://mdn.github.io/learning-area/html/multimedia-and-embedding/responsive-images/not-responsive.html - Not-responsive Images
+
+
+NextJS 13 Image
+https://dev.to/iskurbanov/nextjs-13-image-cheatsheet-55fd 
+
+2 Responsive Implementations
+https://www.youtube.com/watch?v=AT70PVbdfBI
+
+Responsive Grid Layout with Tailwind CSS
+https://reacthustle.com/blog/how-to-set-nextjs-images-with-auto-width-and-height
